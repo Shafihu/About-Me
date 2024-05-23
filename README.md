@@ -3,7 +3,7 @@
 I'm Shafihu, and I'm passionate about all things tech! Here's a little bit about me:
 
 - 👀 I'm interested in software development, website development, and open-source projects.
-- 🌱 Currently, I'm learning currently learning typescript, node.js and react-native.
+- 🌱 Currently, I'm learning learning typescript, node.js and react-native.
 - 💞️ I'm always open to collaborating on exciting projects. Let's build something awesome together!
 - 📫 You can reach me via email at shafihumustapha0101@gmail.com
 - ⚡ Fun fact: I can solve a Rubik’s Cube in under a minute! 🧩
