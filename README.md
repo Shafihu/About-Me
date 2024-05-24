@@ -6,7 +6,7 @@ I'm Shafihu, and I'm passionate about all things tech! Here's a little bit about
 - 🌱 Currently, I'm learning learning typescript, node.js and react-native.
 - 💞️ I'm always open to collaborating on exciting projects. Let's build something awesome together!
 - 📫 You can reach me via email at shafihumustapha0101@gmail.com
-- 📫 You can also reach me via linkedIn at https://www.linkedin.com/in/shafihu-mustapha
+- 📫 You can also reach me via linkedIn at https://www.linkedin.com/in/shafihu-mustapha-190468309/
 - ⚡ Fun fact: I can solve a Rubik’s Cube in under a minute! 🧩
 - Feel free to explore my repositories and drop me a message. Let’s code and learn together! 🚀
 
