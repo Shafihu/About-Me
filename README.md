@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=shafihu&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
