@@ -32,10 +32,7 @@ You can click the Preview link to take a look at your changes.
  
 
 
-<div id="header" align="center">
+<!---<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=shafihu&style=for-the-badge&color=orange" alt=""/>
-</div>
+</div> 
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
