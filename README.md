@@ -14,25 +14,14 @@ I'm Shafihu, and I'm passionate about all things tech! Here's a little bit about
 Shafihu/Shafihu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=shafihu&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafihu&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=shafihu&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
----
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=shafihu&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafihu&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-
-<!---<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=shafihu&style=for-the-badge&color=orange" alt=""/>
-</div> 
 
