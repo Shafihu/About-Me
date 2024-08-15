@@ -35,9 +35,7 @@ I’m a **Computer Science student** at Kwame Nkrumah University of Science and 
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Interactive GitHub README](https://dev.to/)
-- [Understanding React Native's New Architecture](https://dev.to/)
-- [10 Tips for Writing Clean JavaScript Code](https://dev.to/)
+- [Exploring the Power of TypeScript in Modern React Development](https://dev.to/shafihu/exploring-the-power-of-typescript-in-modern-react-development-1hd5)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
