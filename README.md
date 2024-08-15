@@ -20,7 +20,7 @@ I’m a **Computer Science student** at Kwame Nkrumah University of Science and 
 ## 🚀 Current Projects
 
 - 🔄 [**InSnip**](https://github.com/Shafihu/InSnip): A Snapchat clone with unique features.
-- 🎨 **Portfolio Website**: A personal website to showcase my projects and skills.
+- 🎨 [**CodeAlchemy**](https://github.com/Shafihu/CodeAlchemy): A personal website to showcase my projects and skills.
 
 ## 🌟 Highlights
 
