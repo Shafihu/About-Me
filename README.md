@@ -29,7 +29,7 @@ I’m a **Computer Science student** at Kwame Nkrumah University of Science and 
 ## 🌟 Highlights
 
 - 🥈 **Second Place**: Code Quest App Fair at KNUST, out of 38 apps.
-- 🎓 **Continuous Learner**: Currently learning Visual Basic and enhancing my React Native skills.
+- 🎓 **Continuous Learner**: Currently learning Typescript and enhancing my React Native skills.
 
 ## 📊 GitHub Stats
 
